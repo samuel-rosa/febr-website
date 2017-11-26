@@ -1,10 +1,14 @@
 +++
-title = "Contact"
+title = "Contato"
 id = "contact"
 +++
 
-# We are here to help you
+# Nós estamos aqui para ajudar
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Você tem alguma dúvidas sobre algum de nossos produtos? Possui alguma curiosidade sobre o projeto? Está 
+encontrando dificuldades? Encontrou algum problema ou erro? Quer colaborar na pesquisa e desenvolvimento? 
+Possui um conjunto de dados abertos para compartilhar? Teve uma ideia brilhante que vai revolucionar nossos 
+produtos?
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+Por favor, sinta-se à vontade para entrar em contato conosco. Nós faremos o possível para responder à sua 
+mensagem em até 24 horas.

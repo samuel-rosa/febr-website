@@ -1,10 +1,4 @@
-weight: 3
-title: "Design"
-description: >
-  <ul class="list-style-none">
-    <li>Clean and elegant design</li>
-    <li>Full width and boxed mode</li>
-    <li>Easily readable Roboto font and awesome icons</li>
-    <li>7 preprepared colour variations</li>
-  </ul>
+weight: 2
+title: "Dados Abertos"
+description: "<p>Acessíveis ao público. Digitais.<br>Processáveis por máquina.<br>Formato aberto. Licença aberta.<br>Referenciados na internet.</p>"
 image: "img/carousel/template-easy-customize.png"
