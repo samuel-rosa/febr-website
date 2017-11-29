@@ -1,8 +1,4 @@
-weight: 4
-title: "Easy to customize"
-description: >
-  <ul class="list-style-none">
-    <li>7 preprepared colour variations.</li>
-    <li>Easily to change fonts</li>
-  </ul>
-image: "img/carousel/template-easy-code.png"
+weight: 1
+title: "Repositório Brasileiro"
+description: "<p>Simples. Genérico. Acessível.<br>Fácil de usar. Flexível. Extensível.<br>Adaptável. Baixos custos.</p>"
+#image: "img/carousel/template-easy-code.png"

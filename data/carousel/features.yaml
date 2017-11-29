@@ -1,4 +1,4 @@
-weight: 3
+weight: 4
 title: "Dados do Solo"
 description: >
   <ul class="list-style-none">
@@ -8,4 +8,4 @@ description: >
      <li>Manejo e Conservação</li>
      <li>Física e Química</li>
    </ul>
-image: "img/carousel/pontos-brasil.png"
+#image: "img/carousel/pontos-brasil.png"
