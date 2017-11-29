@@ -1,5 +1,5 @@
 weight: 1
-name: "Vizualização"
+name: "Visualização"
 icon: "fa fa-map-o"
-url: ""
-description: "Navegue por todo o território brasileiro e confira a distribuição espacial dos dados abertos do solo. Acesse os conjuntos de dados e avise nosso time sobre qualquer inconsistência encontrada."
+url: "https://samuel-rosa.github.io/febr-view/view"
+description: "Navegue por todo o território brasileiro e confira a distribuição espacial dos dados abertos do solo. Acesse os conjuntos de dados e avise nossa equipe sobre qualquer inconsistência encontrada."

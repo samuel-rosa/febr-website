@@ -2,4 +2,4 @@ weight: 5
 name: "Download"
 icon: "fa fa-download"
 url: "https://github.com/samuel-rosa/febr-package"
-description: "Acesse os dados abertos do solo a partir do seu software favorito de análise de dados. Explore algoritmos e funções de pedotranferência para a padronização e harmonização dos dados."
+description: "Acesse os dados abertos do solo a partir do seu software favorito de análise de dados. Explore algoritmos e funções de pedo-transferência para a padronização e harmonização dos dados."

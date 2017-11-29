@@ -61,7 +61,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "Email"
-    url = "mailto:febr-forum@google-groups.com"
+    url = "mailto:febr-forum@googlegroups.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
@@ -89,10 +89,11 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "febr-forum@google-groups.com"
+    email = "febr-forum@googlegroups.com"
      
     about_us = "<p>Cientistas entusiastas, motivados pela vontade de mudar a forma de fazer ciência do solo no Brasil.</p>"
-    copyright = "Copyright (c) 2017, Equipe febr; todos os direitos reservados."
+    copyright = "Impulsionado por <a href='http://gohugo.io/'>Hugo</a> e <a href='https://github.com/rstudio/blogdown'>Blogdown</a>. © Equipe febr 2017." 
+    #copyright = "Copyright (c) 2017, Equipe febr; todos os direitos reservados."
     
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -117,7 +118,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Entre em contato conosco via febr-forum@google-groups.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Entre em contato conosco via febr-forum@googlegroups.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
