@@ -1,4 +1,5 @@
 baseurl = "http://coral.ufsm.br/febr/docs/"
+#baseurl = "/"
 title = "febr"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
@@ -91,7 +92,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "febr-forum@googlegroups.com"
      
-    about_us = "<p>Cientistas entusiastas, motivados pela vontade de mudar a forma de fazer ciência do solo no Brasil.</p>"
+    about_us = "<p>Cientistas entusiastas, motivados pela vontade de mudar a maneira de fazer ciência do solo no Brasil.</p>"
     copyright = "Impulsionado por <a href='http://gohugo.io/'>Hugo</a> e <a href='https://github.com/rstudio/blogdown'>Blogdown</a>. © Equipe febr 2017." 
     #copyright = "Copyright (c) 2017, Equipe febr; todos os direitos reservados."
     
