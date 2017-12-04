@@ -1,4 +1,4 @@
-baseurl = "http://coral.ufsm.br/febr/docs/"
+baseurl = "http://www.ufsm.br/febr/"
 #baseurl = "/"
 title = "febr"
 theme = "hugo-universal-theme"
