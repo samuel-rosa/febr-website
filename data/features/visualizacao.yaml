@@ -1,6 +1,5 @@
 weight: 1
 name: "Visualização"
 icon: "fa fa-map-o"
-#url: "https://samuel-rosa.github.io/febr-view/view"
 url: "http://www.ufsm.br/febr/view"
 description: "Navegue por todo o território brasileiro e confira a distribuição espacial dos dados abertos do solo. Acesse os conjuntos de dados e avise nossa equipe sobre qualquer inconsistência encontrada."

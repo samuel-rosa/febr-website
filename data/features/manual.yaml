@@ -1,6 +1,5 @@
 weight: 4
 name: "Manual"
 icon: "fa fa-book"
-#url: "https://samuel-rosa.github.io/febr-book/apresentacao.html"
 url: "http://www.ufsm.br/febr/book/"
 description: "Conheça a estrutura do repositório e aprenda sobre como organizar e compartilhar seus dados abertos do solo. Veja como colaborar no desenvolvimento do repositório e na revisão dos conjuntos de dados."
