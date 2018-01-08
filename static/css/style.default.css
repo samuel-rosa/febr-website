@@ -3382,6 +3382,7 @@ p {
 .lead {
   margin-bottom: 20px;
   font-size: 18px;
+  font-weight: bold;
 }
 @media (min-width: 768px) {
   .lead {

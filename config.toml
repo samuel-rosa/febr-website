@@ -127,8 +127,8 @@ paginate = 10
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
-    tags = true
+    categories = false
+    tags = false
     search = true
 
 [params.carousel]
@@ -152,12 +152,12 @@ paginate = 10
     subtitle = "Muitas pessoas já usaram os dados disponíveis no **febr**. Outras tantas já colaboraram para o desenvolvimento do **febr**. Veja o que elas tem a dizer sobre nosso trabalho."
 
 [params.see_more]
-    enable = false
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    enable = true
+    icon = "fa fa-table"
+    title = "Quer publicar seu conjunto de dados?"
+    subtitle = "Descarregue agora mesmo a planilha modelo que preparamos e comece a organizar seu conjunto de dados usando os padrões do febr."
+    link_url = "https://drive.google.com/open?id=1w4LBQbLBFtnzRipFu8T4-rDszZSzahajLCyZWDkHQr0"
+    link_text = "Planilha modelo"
 
 [params.clients]
     enable = false
