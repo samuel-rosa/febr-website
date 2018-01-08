@@ -41,11 +41,11 @@ paginate = 10
 
 # Top bar social links menu
 
-#[[menu.topbar]]
-#    weight = 1
-#    name = "GitHub"
-#    url = "https://github.com/devcows/hugo-universal-theme"
-#    pre = "<i class='fa fa-2x fa-github'></i>"
+[[menu.topbar]]
+    weight = 1
+    name = "GitHub"
+    url = "https://github.com/febr-team"
+    pre = "<i class='fa fa-2x fa-github'></i>"
 
 #[[menu.topbar]]
 #    weight = 2
@@ -60,7 +60,7 @@ paginate = 10
 #    pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
-    weight = 1
+    weight = 2
     name = "Email"
     url = "mailto:febr-forum@googlegroups.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
