@@ -1,5 +1,5 @@
 weight: 3
 name: "Busca"
 icon: "fa fa-search"
-url: "http://www.ufsm.br/febr/search/"
+url: "http://www.ufsm.br/febr/search"
 description: "Encontre o conjunto de dados abertos que você precisa para desenvolver seu estudo. Conheça outros conjuntos de dados e veja como estão relacionados ao estudo que você pretende desenvolver."
