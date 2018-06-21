@@ -9,7 +9,7 @@ author: "Alessandro Samuel-Rosa"
 O Repositório Brasileiro Livre para Dados Abertos do Solo (***febr***) acaba de ser reconhecido como Projeto de
 Extensão da Universidade Tecnológica Federal do Paraná ([UTFPR][utfpr]). Com isso, o ***febr*** terá direito a
 bolsas para estudantes de graduação, apoio financeiro para custeio do projeto e para representar a UTFPR em 
-eventos de interesse da instituição por um período de três anos. Isso permitirá aperfeiçoar o ***febr*** como
+eventos de interesse da instituição por um período de até três anos. Isso permitirá aperfeiçoar o ***febr*** como
 plataforma coletiva de compartilhamento de dados do solo no Brasil, ampliando o acesso dos vários segmentos da
 sociedade aos dados do solo produzidos nas instituições de ensino e pesquisa brasileiras -- a primeira 
 contribuição da da UTFPR Santa Helena para com o Programa Nacional de Levantamento e Interpretação de Solos do
@@ -61,6 +61,4 @@ Dentre as **obrigações** do(a) bolsista estão:
 8. O bolsista deverá participar do SEI com recursos da bolsa, e
 9. Atuar como monitor do SEI, da UTFPR, sempre que solicitado.
 
-*Nota: O resultado final do Edital 01/2018 da Pró-Reitoria de Relações Empresarias e Comunitárias (PROREC) da 
-Universidade Tecnológica Federal do Paraná pode ser consultado em
-http://portal.utfpr.edu.br/editais/relacoes-empresariais-e-comunitarias/reitoria/extensao/edital-extensao-01-2018*
+*Nota: O resultado final do Edital 01/2018 da Pró-Reitoria de Relações Empresarias e Comunitárias (PROREC) da Universidade Tecnológica Federal do Paraná pode ser consultado em http://portal.utfpr.edu.br/editais/relacoes-empresariais-e-comunitarias/reitoria/extensao/edital-extensao-01-2018*
