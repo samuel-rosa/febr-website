@@ -9,10 +9,10 @@ author: "Alessandro Samuel-Rosa"
 O Repositório Brasileiro Livre para Dados Abertos do Solo (***febr***) acaba de ser reconhecido como Projeto de
 Extensão da Universidade Tecnológica Federal do Paraná ([UTFPR][utfpr]). Com isso, o ***febr*** terá direito a
 bolsas para estudantes de graduação, apoio financeiro para custeio do projeto e para representar a UTFPR em 
-eventos de interesse da instituição por um período de três anos. Isso permitirá aperfeiçoar o ***febr*** como
+eventos de interesse da instituição por um período de até três anos. Isso permitirá aperfeiçoar o ***febr*** como
 plataforma coletiva de compartilhamento de dados do solo no Brasil, ampliando o acesso dos vários segmentos da
 sociedade aos dados do solo produzidos nas instituições de ensino e pesquisa brasileiras -- a primeira 
-contribuição da da UTFPR Santa Helena para com o Programa Nacional de Levantamento e Interpretação de Solos do
+contribuição da UTFPR Santa Helena para o Programa Nacional de Levantamento e Interpretação de Solos do
 Brasil ([PronaSolos][pronasolos]).
 
 [utfpr]: http://portal.utfpr.edu.br/
@@ -20,20 +20,20 @@ Brasil ([PronaSolos][pronasolos]).
 
 ## Você quer uma bolsa?
 
-Estamos selecionando um(a) estudante de graduação da UTFPR Santa Helena para ser bolsista do ***febr***. A 
+Estamos selecionando estudante cotista de graduação da UTFPR Santa Helena para ser bolsista do ***febr***. A 
 bolsa será financiada pela Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Paraná
 ([FA][fa]) via Programa Institucional de Apoio a Inclusão Social -- Pesquisa e Extensão Universitária (PIBIS).
 A duração da bolsa será de até **12 meses**, no valor mensal de **R$ 400,00**.
 
 [fa]: http://www.fappr.pr.gov.br/
 
-A inscrição no processo seletivo vai até às 12 horas do dia **26 de junho de 2018**, próxima terça-feira, na 
+A inscrição no processo seletivo vai até ao meio-dia de **26 de junho de 2018**, próxima terça-feira, na 
 UTFPR Santa Helena, sala E08, com [Alessandro Samuel-Rosa][alessandro]. Uma breve entrevista será feita no 
-momento da inscrição, onde será avaliado o potencial do(a) estudante realizar as atividades previstas no
+momento da inscrição, na qual será avaliado o potencial discente de realizar as atividades previstas no
 [projeto][projeto]. O resultado será publicado no dia seguinte, **27 de junho de 2018**, quarta-feira. O incío 
-da vigência da bolsa está previsto para 01 de agosto de 2018.
+da vigência da bolsa está previsto para agosto de 2018.
 
-A **documentação** exigida para a inscrição é a seguinte:
+A **documentação** exigida para a inscrição é:
 
 1. Declaração de Matrícula em curso de graduação da UTFPR Santa Helena,
 2. Declaração de próprio punho de que não acumula bolsa, conforme consta na página de editais da UTFPR 
@@ -44,7 +44,7 @@ A **documentação** exigida para a inscrição é a seguinte:
 [alessandro]: http://samuel-rosa.github.io/
 [declaracao]: http://www.utfpr.edu.br/estrutura-universitaria/diretorias-de-gestao/dircom/noticias/noticias/link/DECLARAODENOACMULODEBOLSA.pdf
 
-Dentre as **obrigações** do(a) bolsista estão:
+Das **obrigações**:
 
 1. Executar as atividades elencadas no Plano de Trabalho, com carga horária de 20 horas semanais,
 2. Estar regularmente matriculado em curso de graduação da UTFPR Santa Helena e ter no mínimo mais 12 meses de
@@ -58,9 +58,8 @@ Dentre as **obrigações** do(a) bolsista estão:
 6. Não compartilhar a bolsa com outros estudantes, sendo expressamente vedada a divisão da mensalidade de uma
    bolsa entre dois ou mais estudantes,
 7. Elaborar um artigo do projeto para submissão ao SEI,
-8. O bolsista deverá participar do SEI com recursos da bolsa, e
+8. Participar do SEI com recursos da bolsa, e
 9. Atuar como monitor do SEI, da UTFPR, sempre que solicitado.
 
-*Nota: O resultado final do Edital 01/2018 da Pró-Reitoria de Relações Empresarias e Comunitárias (PROREC) da 
-Universidade Tecnológica Federal do Paraná pode ser consultado em
-http://portal.utfpr.edu.br/editais/relacoes-empresariais-e-comunitarias/reitoria/extensao/edital-extensao-01-2018*
+*Nota: O resultado final do Edital 01/2018 da Pró-Reitoria de Relações Empresarias e Comunitárias (PROREC) da Universidade Tecnológica Federal do Paraná pode ser consultado em http://portal.utfpr.edu.br/editais/relacoes-empresariais-e-comunitarias/reitoria/extensao/edital-extensao-01-2018
+*
