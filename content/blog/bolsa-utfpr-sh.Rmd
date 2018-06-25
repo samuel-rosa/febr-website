@@ -6,45 +6,47 @@ banner: "img/banners/banner-03.png"
 author: "Alessandro Samuel-Rosa"
 ---
 
-O Repositório Brasileiro Livre para Dados Abertos do Solo (***febr***) acaba de ser reconhecido como Projeto de
-Extensão da Universidade Tecnológica Federal do Paraná ([UTFPR][utfpr]). Com isso, o ***febr*** terá direito a
+O Repositório Brasileiro Livre para Dados Abertos do Solo (___febr___) acaba de ser reconhecido como Projeto de
+Extensão da Universidade Tecnológica Federal do Paraná ([UTFPR][utfpr]). Com isso, o ___febr___ terá direito a
 bolsas para estudantes de graduação, apoio financeiro para custeio do projeto e para representar a UTFPR em 
-eventos de interesse da instituição por um período de até três anos. Isso permitirá aperfeiçoar o ***febr*** como
-plataforma coletiva de compartilhamento de dados do solo no Brasil, ampliando o acesso dos vários segmentos da
-sociedade aos dados do solo produzidos nas instituições de ensino e pesquisa brasileiras -- a primeira 
-contribuição da UTFPR Santa Helena para o Programa Nacional de Levantamento e Interpretação de Solos do
-Brasil ([PronaSolos][pronasolos]).
+eventos de interesse da instituição por um período de até três anos. Isso permitirá aperfeiçoar o ___febr___ 
+como plataforma coletiva de compartilhamento de dados do solo no Brasil, ampliando o acesso dos vários 
+segmentos da sociedade aos dados do solo produzidos nas instituições de ensino e pesquisa brasileiras -- a
+primeira contribuição da UTFPR Santa Helena para o Programa Nacional de Levantamento e Interpretação de Solos 
+do Brasil ([PronaSolos][pronasolos]).
 
 [utfpr]: http://portal.utfpr.edu.br/
 [pronasolos]: http://www.imprensanacional.gov.br/web/guest/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/26572788/do1-2018-06-20-decreto-n-9-414-de-19-de-junho-de-2018-26572694
 
 ## Você quer uma bolsa?
 
-Estamos selecionando estudante cotista de graduação da UTFPR Santa Helena para ser bolsista do ***febr***. A 
+Estamos selecionando estudante cotista de graduação da UTFPR Santa Helena para ser bolsista do ___febr___. A 
 bolsa será financiada pela Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Paraná
-([FA][fa]) via Programa Institucional de Apoio a Inclusão Social -- Pesquisa e Extensão Universitária (PIBIS).
-A duração da bolsa será de até **12 meses**, no valor mensal de **R$ 400,00**.
+([FA][fa]) via Programa Institucional de Apoio a Inclusão Social -- Pesquisa e Extensão Universitária 
+([PIBIS][pibis]). A duração da bolsa será de até __12 meses__, no valor mensal de __R$ 400,00__.
 
 [fa]: http://www.fappr.pr.gov.br/
+[pibis]: http://www.fappr.pr.gov.br/arquivos/File/chamadas2018/2018_CP03_Pibis.pdf
 
-A inscrição no processo seletivo vai até ao meio-dia de **26 de junho de 2018**, próxima terça-feira, na 
+A inscrição no processo seletivo vai até ao meio-dia de __26 de junho de 2018__, próxima terça-feira, na 
 UTFPR Santa Helena, sala E08, com [Alessandro Samuel-Rosa][alessandro]. Uma breve entrevista será feita no 
-momento da inscrição, na qual será avaliado o potencial discente de realizar as atividades previstas no
-[projeto][projeto]. O resultado será publicado no dia seguinte, **27 de junho de 2018**, quarta-feira. O incío 
-da vigência da bolsa está previsto para agosto de 2018.
+momento da inscrição, na qual será avaliado o potencial discente de realizar as atividades previstas no projeto
+([link][projeto]) e discriminadas no plano de trabalho ([link][plano]). O resultado será publicado no dia 
+seguinte, __27 de junho de 2018__, quarta-feira. O incío da vigência da bolsa está previsto para agosto de 2018.
 
-A **documentação** exigida para a inscrição é:
+A __documentação__ exigida para a inscrição é:
 
-1. Declaração de Matrícula em curso de graduação da UTFPR Santa Helena,
+1. Declaração de matrícula em curso de graduação da UTFPR Santa Helena,
 2. Declaração de próprio punho de que não acumula bolsa, conforme consta na página de editais da UTFPR 
    ([link][declaracao]), e
 3. Declaração emitida pelo DERAC da UTFPR Santa Helena confirmando o ingresso na modalidade de cotista.
 
 [projeto]: https://cloud.utfpr.edu.br/index.php/s/bun8guNDsSI1Ibf
+[plano]: https://cloud.utfpr.edu.br/index.php/s/aJzyiKg7VhXxcvU
 [alessandro]: http://samuel-rosa.github.io/
 [declaracao]: http://www.utfpr.edu.br/estrutura-universitaria/diretorias-de-gestao/dircom/noticias/noticias/link/DECLARAODENOACMULODEBOLSA.pdf
 
-Das **obrigações**:
+Das __obrigações__:
 
 1. Executar as atividades elencadas no Plano de Trabalho, com carga horária de 20 horas semanais,
 2. Estar regularmente matriculado em curso de graduação da UTFPR Santa Helena e ter no mínimo mais 12 meses de
@@ -61,5 +63,5 @@ Das **obrigações**:
 8. Participar do SEI com recursos da bolsa, e
 9. Atuar como monitor do SEI, da UTFPR, sempre que solicitado.
 
-*Nota: O resultado final do Edital 01/2018 da Pró-Reitoria de Relações Empresarias e Comunitárias (PROREC) da Universidade Tecnológica Federal do Paraná pode ser consultado em http://portal.utfpr.edu.br/editais/relacoes-empresariais-e-comunitarias/reitoria/extensao/edital-extensao-01-2018
-*
+_Nota: O resultado final do Edital 01/2018 da Pró-Reitoria de Relações Empresarias e Comunitárias (PROREC) da Universidade Tecnológica Federal do Paraná pode ser consultado em http://portal.utfpr.edu.br/editais/relacoes-empresariais-e-comunitarias/reitoria/extensao/edital-extensao-01-2018
+_
