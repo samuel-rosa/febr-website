@@ -51,7 +51,7 @@ O modelo de dados utilizado no ___febr___ tem sido sistematicamente documentado 
 
 ### Download
 
-Os conjuntos de dados publicados no ___febr___ podem ser descarregados para uso usando duas opções principais. A primeira delas consiste em acessar o diretório do conjunto de dados e, em seguida, abrir as planilhas que se deseja descarregar. Feito isso, basta acessar `Arquivo > Fazer download como` e escolher o formato de arquivo desejado (CSV, ODS, XLSX). A segunda opção consiste em utilizar o pacote __febr__ para R, disponível em https://github.com/samuel-rosa/febr-package. Além de opções para quais dados descarregar de cada conjunto de dados, o pacote __febr__ inclui algoritmos e funções para a padronização e harmonização dos dados, facilitando as operações de processamento dos dados.
+Os conjuntos de dados publicados no ___febr___ podem ser descarregados para uso usando duas opções principais. A primeira delas consiste em acessar o diretório do conjunto de dados e, em seguida, abrir as planilhas que se deseja descarregar. Feito isso, basta acessar `Arquivo > Fazer download como` e escolher o formato de arquivo desejado (CSV, ODS, XLSX). A segunda opção consiste em utilizar o pacote __febr__ para R, disponível em https://github.com/febr-team/febr-package. Além de opções para quais dados descarregar de cada conjunto de dados, o pacote __febr__ inclui algoritmos e funções para a padronização e harmonização dos dados, facilitando as operações de processamento dos dados.
 
 ### Fórum
 
