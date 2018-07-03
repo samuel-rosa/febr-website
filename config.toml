@@ -93,7 +93,7 @@ paginate = 10
     email = "febr-forum@googlegroups.com"
      
     about_us = "<p>Cientistas entusiastas, motivados pela vontade de mudar a maneira de fazer ciência do solo no Brasil.</p>"
-    copyright = "Impulsionado por <a href='http://gohugo.io/'>Hugo</a> e <a href='https://github.com/rstudio/blogdown'>Blogdown</a>. © Equipe febr 2017." 
+    copyright = "Impulsionado por <a href='http://gohugo.io/'>Hugo</a> e <a href='https://github.com/rstudio/blogdown'>Blogdown</a>. © Equipe febr 2018." 
     #copyright = "Copyright (c) 2017, Equipe febr; todos os direitos reservados."
     
     # Format dates with Go's time formatting
@@ -101,11 +101,11 @@ paginate = 10
 
     logo = "img/logo.png"
     address = """<p><strong>Equipe febr</strong>
-        <br>Av. Roraima 1000, Prédio 42, Sala 3314
-        <br>Cidade Universitária
-        <br>Bairro Camobi
-        <br>Santa Maria - RS
-        <br>CEP: 97105-900
+        <br>Prolongamento da Rua Cerejeira, s/n, Sala E8
+        <br>Bairro São Luiz
+        <br>Santa Helena - PR
+        <br>CEP: 85892-000
+        <br>Fone: +55 (45) 3268-8800
         <br>
         <strong>Brasil</strong>
       </p>
