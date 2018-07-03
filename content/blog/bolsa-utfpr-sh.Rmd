@@ -1,67 +1,67 @@
 ---
-title: "Bolsa de extensão para estudante de graduação da UTFPR Santa Helena"
-date: "2018-06-21"
+title: "Bolsa de pesquisa para estudante de graduação da UTFPR Santa Helena"
+date: "2018-07-03"
 categories: ["notícia"]
-banner: "img/banners/banner-03.png"
+banner: "img/banners/banner-04.png"
 author: "Alessandro Samuel-Rosa"
 ---
 
-O Repositório Brasileiro Livre para Dados Abertos do Solo (___febr___) acaba de ser reconhecido como Projeto de
-Extensão da Universidade Tecnológica Federal do Paraná ([UTFPR][utfpr]). Com isso, o ___febr___ terá direito a
-bolsas para estudantes de graduação, apoio financeiro para custeio do projeto e para representar a UTFPR em 
-eventos de interesse da instituição por um período de até três anos. Isso permitirá aperfeiçoar o ___febr___ 
-como plataforma coletiva de compartilhamento de dados do solo no Brasil, ampliando o acesso dos vários 
-segmentos da sociedade aos dados do solo produzidos nas instituições de ensino e pesquisa brasileiras -- a
-primeira contribuição da UTFPR Santa Helena para o Programa Nacional de Levantamento e Interpretação de Solos 
-do Brasil ([PronaSolos][pronasolos]).
-
-[utfpr]: http://portal.utfpr.edu.br/
-[pronasolos]: http://www.imprensanacional.gov.br/web/guest/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/26572788/do1-2018-06-20-decreto-n-9-414-de-19-de-junho-de-2018-26572694
-
-## Você quer uma bolsa?
-
-Estamos selecionando estudante cotista de graduação da UTFPR Santa Helena para ser bolsista do ___febr___. A 
-bolsa será financiada pela Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Paraná
-([FA][fa]) via Programa Institucional de Apoio a Inclusão Social -- Pesquisa e Extensão Universitária 
-([PIBIS][pibis]). A duração da bolsa será de até __12 meses__, no valor mensal de __R$ 400,00__.
+O Repositório Brasileiro Livre para Dados Abertos do Solo (___febr___) acaba de receber uma bolsa de iniciação
+científica para estudante de graduação da [UTFPR Santa Helena][utfpr]. A bolsa será financiada pela Fundação
+Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Paraná ([FA][fa]) via Programa de Bolsas de
+Iniciação Científica ([PIBIC][pibic]). A duração da bolsa será de até __12 meses__, no valor mensal de 
+__R$ 400,00__, com vigência de agosto de 2018 até julho de 2019. É a UTFPR Santa Helena reforçando seu 
+compromisso com o Programa Nacional de Levantamento e Interpretação de Solos do Brasil 
+([PronaSolos][pronasolos]).
 
 [fa]: http://www.fappr.pr.gov.br/
-[pibis]: http://www.fappr.pr.gov.br/arquivos/File/chamadas2018/2018_CP03_Pibis.pdf
+[pibic]: http://www.fappr.pr.gov.br/arquivos/File/chamadas2018/2018_CP02_PibicPibit.pdf
+[pronasolos]: http://www.imprensanacional.gov.br/web/guest/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/26572788/do1-2018-06-20-decreto-n-9-414-de-19-de-junho-de-2018-26572694
+[utfpr]: http://portal.utfpr.edu.br/
 
-A inscrição no processo seletivo vai até ao meio-dia de __26 de junho de 2018__, próxima terça-feira, na 
-UTFPR Santa Helena, sala E08, com [Alessandro Samuel-Rosa][alessandro]. Uma breve entrevista será feita no 
-momento da inscrição, na qual será avaliado o potencial discente de realizar as atividades previstas no projeto
-([link][projeto]) e descritas no plano de trabalho ([link][plano]). O resultado será publicado no dia 
-seguinte, __27 de junho de 2018__, quarta-feira. O incío da vigência da bolsa está previsto para agosto de 2018.
+## Como se inscrever?
+
+As inscrições vão até às 18 horas do dia __05 de julho de 2018__, quinta-feira, na UTFPR Santa Helena, sala E08, 
+com [Alessandro Samuel-Rosa][alessandro]. Uma breve entrevista será feita no momento da inscrição, na qual será
+avaliado o potencial discente de realizar as atividades previstas no projeto ([link][projeto]) e descritas no 
+plano de trabalho ([link][plano]). O resultado será publicado no dia seguinte, __06 de julho de 2018__,
+sexta-feira.
+
+[projeto]: https://cloud.utfpr.edu.br/index.php/s/wuWaPRHnIDEkrxP
+[plano]: https://cloud.utfpr.edu.br/index.php/s/PC3XWdHwDact3YX
+[alessandro]: http://samuel-rosa.github.io/
 
 A __documentação__ exigida para a inscrição é:
 
-1. Declaração de matrícula em curso de graduação da UTFPR Santa Helena,
-2. Declaração de próprio punho de que não acumula bolsa, conforme consta na página de editais da UTFPR 
-   ([link][declaracao]), e
-3. Declaração emitida pelo DERAC da UTFPR Santa Helena confirmando o ingresso na modalidade de cotista.
+1. Declaração de matrícula em curso de graduação da UTFPR Santa Helena, e
+2. Declaração de próprio punho de que não possui vínculo empregatício e de que não acumula bolsa.
 
-[projeto]: https://cloud.utfpr.edu.br/index.php/s/bun8guNDsSI1Ibf
-[plano]: https://cloud.utfpr.edu.br/index.php/s/aJzyiKg7VhXxcvU
-[alessandro]: http://samuel-rosa.github.io/
-[declaracao]: http://www.utfpr.edu.br/estrutura-universitaria/diretorias-de-gestao/dircom/noticias/noticias/link/DECLARAODENOACMULODEBOLSA.pdf
+## Das obrigações
 
-Das __obrigações__:
+1. Estar regularmente matriculado em curso de graduação da UTFPR Santa Helena,
+2. Não ter vínculo empregatício e dedicar-se às atividades acadêmicas e de pesquisa,
+    + Estágios serão considerados compatíveis com a dedicação às atividades acadêmicas e de pesquisa apenas
+      quando realizados em período não letivo,
+3. Receber apenas esta modalidade de bolsa, sendo vedada a acumulação com outras, exceto aquelas de programas
+   oficiais que possuem objetivos assistenciais, de manutenção ou de permanência,
+4. Ter currículo atualizado, em português, na [Plataforma Lattes do CNPq][lattes] e, em inglês, no
+   [ResearchGate][rg] e no [ORCID][orcid], incluindo foto e apresentação pessoal,
+5. Desenvolver em conjunto com o orientador, plano de atividades da pesquisa a ser realizada, com dedicação 
+   de 20 (vinte) horas semanais,
+6. Apresentar os resultados finais do plano de atividades, sob a forma de exposição oral e/ou painel, no SICITE 
+   2019 da UTFPR, e atuar como monitor se solicitado,
+7. Elaborar relatórios para apreciação do orientador,
+8. Incluir o nome do orientador nas publicações e nos trabalhos apresentados em congressos e seminários, cujos 
+   resultados contaram com a participação efetiva deste,
+9. Responsabilizar-se pela identificação visual obrigatória da Fundação Araucária e da Secretaria da 
+   Ciência, Tecnologia e Ensino Superior como financiadora do PIBIC/PIBIT, nas publicações de trabalhos
+   apresentados em eventos de qualquer natureza e em qualquer meio de divulgação, e
+10. Participar, com matrícula, da disciplina de [Gênese e Morfologia do Solo][genese] ofertada pela Coordenação
+    do Curso de Agronomia da UTFPR Santa Helena no segundo semestre letivo de 2018.
 
-1. Executar as atividades elencadas no Plano de Trabalho, com carga horária de 20 horas semanais,
-2. Estar regularmente matriculado em curso de graduação da UTFPR Santa Helena e ter no mínimo mais 12 meses de
-   curso a cumprir,
-3. Fazer referência a sua condição de bolsista nas publicações e trabalhos apresentados, incluindo menção de 
-   agradecimento à organização financiadora da bolsa,
-4. Não ter vínculo empregatício ou estágio remunerado e dedicar-se integralmente às atividades acadêmicas
-   e ao desenvolvimento das atividades elencadas no Plano de Trabalho,
-5. Estar recebendo apenas esta modalidade de bolsa, sendo vedada acumulação com outros Programas (inclusive 
-   bolsa permanência), exceto auxílio estudantil pago pelo Núcleo de Apoio ao Estudante (NUAPE),
-6. Não compartilhar a bolsa com outros estudantes, sendo expressamente vedada a divisão da mensalidade de uma
-   bolsa entre dois ou mais estudantes,
-7. Elaborar um artigo do projeto para submissão ao SEI,
-8. Participar do SEI com recursos da bolsa, e
-9. Atuar como monitor do SEI, da UTFPR, sempre que solicitado.
+[lattes]: http://lattes.cnpq.br/
+[rg]: https://www.researchgate.net/
+[orcid]: https://orcid.org/
+[genese]: http://www.utfpr.edu.br/patobranco/estrutura-universitaria/diretorias/dirgrad/cursos/coagr/documentos/planos_de_ensino_560-1/genese-e-morfologia-do-solo-a-gs24g
 
-_Nota: O resultado final do Edital 01/2018 da Pró-Reitoria de Relações Empresarias e Comunitárias (PROREC) da Universidade Tecnológica Federal do Paraná pode ser consultado em http://portal.utfpr.edu.br/editais/relacoes-empresariais-e-comunitarias/reitoria/extensao/edital-extensao-01-2018
-_
+_Nota: Bolsistas da Fundação Araucária precisam ter conta bancária na Caixa Econômica Federal._
