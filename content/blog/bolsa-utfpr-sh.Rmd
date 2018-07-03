@@ -1,5 +1,5 @@
 ---
-title: "Bolsa para estudante de graduação da UTFPR Santa Helena"
+title: "Bolsa de extensão para estudante de graduação da UTFPR Santa Helena"
 date: "2018-06-21"
 categories: ["notícia"]
 banner: "img/banners/banner-03.png"
