@@ -1,0 +1,31 @@
+---
+title: "Equipe do febr ganha três novos membros"
+date: "Outubro/2018""
+categories: ["notícia"]
+banner: "img/banners/banner-05.png"
+author: "Matheus Ferreira Ramos"
+---
+
+<style>
+body{
+text-align: justify}
+</style>
+
+&nbsp;
+
+
+O Brasil acabou de sediar o *21st World Congress of Soil Science* ([21WCSS](https://www.21wcss.org/)), realizado na cidade do Rio de Janeiro. Durante o evento, a comunidade internacional de cientistas do solo conheceu o Repositório Brasileiro Livre para Dados Abertos do Solo, ***febr** , o resultado da colaboração de 54 pesquisadores, a maioria deles brasileiros. Agora, passadas algumas semanas, a equipe do ***febr** ganha três novos membros. Vamos conhecer um pouco sobre cada um eles?
+
+O primeiro deles é Matheus Ferreira Ramos ([Lattes](http://lattes.cnpq.br/1502739519386205)), aluno do curso de Bacharelado em Ciência da Computação da [UTFPR-SH](http://portal.utfpr.edu.br/). Matheus atua na área de extensão no ***febr**, recebendo bolsa do Programa Institucional de Apoio à Inclusão Social, Pesquisa e Extensão Universitária ([PIBIS](http://www.fappr.pr.gov.br/arquivos/File/chamadas2018/2018_CP03_Pibis.pdf)) da Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Paraná ([FA](http://www.fappr.pr.gov.br/)). Dentre as tarefas descritas em seu [plano de trabalho](https://docs.google.com/document/d/1xkjNqejZtoBl9P4UhHWb_OBceVY2fo6ovgpgbdAtr7I/edit?usp=sharing) estão o suporte aos colaboradores de instituições parceira, a divulgação e popularização do ***febr**, o desenvolvimento de funcionalidades de facilitação de acesso, e a condução de atividades educativas com a comunidade de Santa Helena e região.
+
+O segundo membro é Mikael Messias ([Lattes](http://lattes.cnpq.br/4784406446479043)), também aluno da UTFPR-SH no curso Bacharelado em Ciência da Computação. Mikael atua na área de pesquisa no ***febr**, com bolsa do Programa de Bolsas de Iniciação Científica ([PIBIC](http://www.fappr.pr.gov.br/arquivos/File/chamadas2018/2018_CP02_PibicPibit.pdf)) financiada pela Fundação Araucária. No febr, Mikael é responsável pela revisão e avaliação da qualidade dos dados do solo da região Sul do Brasil - com ênfase no estado do Paraná - já publicados no ***febr**. Seu [plano de trabalho](https://docs.google.com/document/d/1TvRbCYK7pPvBllimMiSzuBWPvRX0wTryg-gq0Rcm8bg/edit?usp=sharing) inclui ainda a compilação de novos conjuntos de dados para preenchimento das áreas com poucos dados.
+
+Finalmente, o terceiro mais novo membro da equipe do ***febr**, Rander Carneiro ([Lattes](http://lattes.cnpq.br/9844984024940216)), trabalha com os conjuntos de dados da região Sudeste do Brasil. [Seu plano de trabalho](https://docs.google.com/document/d/1sxRSJkP1z1jNWVfeBNz79X15mSEfO9j07m-l26aWh18/edit?usp=sharing) inclui, além da revisão e avaliação de qualidade dos dados do solo, a recuperação de coordenadas espaciais para uso dos dados do ***febr** em projetos de mapeamento digital do solo. Assim como Matheus e Mikael, Rander é   discente do curso Bacharelado em Ciência da Computação da UTFPR-SH, atuando como voluntário no Programa Institucional em Iniciação Científica e Tecnológica ([PIVICT](http://portal.utfpr.edu.br/editais/pesquisa-e-pos-graduacao/reitoria/programa-institucional-de-voluntariado-em-iniciacao-cientifica-e-tecnologica)).
+
+![Os mais novos integrantes da equipe do febr: Matheus, ao fundo, Mikael, à frente, e Rander, à direita. Ao centro, Alessandro, coordenador do febr](https://raw.githubusercontent.com/MatheusFerreiraR/febr-website/master/static/img/banners/banner-05.jpg)
+
+
+Com a entrada desses três novos membros na equipe, os dados do repositório passarão por uma ampla revisão e verificação de consistência. Isso trará mais qualidade e confiança para o ***febr**. O compartilhamento imediato desses dados revisados alavancará novas pesquisas em ciência do solo. Permitirá também otimizar o uso dos recursos públicos, principalmente pela eliminação de esforços duplicados de compilação e revisão de dados.
+
+E pra você, aluna dos cursos de Biologia ou Agronomia da UTFPR-SH, que só ficou sabendo do ***febr** agora, ou que já o conhecia, e quer fazer parte da nossa equipe, mas não sabe como, nós temos uma dica pra você! Envie-nos uma mensagem de [e-mail](http://coral.ufsm.br/febr/contact/) com o assunto "novo membro" e nos diga-nos porque quer trabalhar no ***febr**. Neste mês de outubro de 2018 nós selecionaremos duas novas integrantes para nosso time.
+
