@@ -12,7 +12,11 @@ files <- glue::glue("rm public/img/{files}")
 lapply(files, system)
 
 # Compress files
-system("cd public && zip -r upload.zip *")
+if(Sys.info() == "Linux") {
+  system("cd public && zip -r upload.zip *")
+} else if (Sys.info() == "Windows") {
+  system("cd public && ") # Matheus, descobrir e inserir comando do Windows para zipar!
+}
 
 # Open server portal
 browseURL("http://www.suporte.cpd.ufsm.br/newftp/")
