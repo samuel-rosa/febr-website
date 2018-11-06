@@ -23,10 +23,10 @@ do solo aparecem de maneira agregada, produzindo uma visão mais limpa. Além di
 observações nossos visitantes podem ter uma ideia quantitativa melhor, uma vez que cada agregado informa o 
 número de observações e a área coberta. Ao aproximar a visualização, os agregados vão se desfazendo até chegar
 às observações individuais. Além da visão mais limpa, o carregamento da página ficou bem mais rápido. Nossos 
-usuários mais assíduos também verão que agora usamos um mapa com o relevo e a vegetação ao fundo.
+usuários mais assíduos também verão que agora usamos um mapa com o relevo e a vegetação ao fundo. Veja abaixo.
 
-![Nova página de visualização das observações do solo no ___febr___.][../../../../../img/posts/2018-11-06-febr-view.png]
-
-Na próxima terça-feira, dia 13 de novembro, uma nova versão do pacote [`febr`][pacote] para o R. Aguarde!
+Na próxima terça-feira, dia 13 de novembro, uma nova versão do pacote `febr` [para o R][pacote]. Aguarde!
 
 [pacote]: https://github.com/febr-team/febr-package
+
+![Nova página de visualização das observações do solo no ___febr___.](../../../../../img/posts/2018-11-06-febr-view.png)
