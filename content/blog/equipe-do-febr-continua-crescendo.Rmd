@@ -15,9 +15,7 @@ Começamos pelo Prof. Dr. [Anderson Sandro da Rocha][andersonlattes], da Univers
 [unioste]: https://www5.unioeste.br/portal/
 [uem]: http://www.uem.br/
 
-
 ![Localização da Mesorregião Geográfica do Oeste Paranaense. Fonte: [Raphael Lorenzeto de Abreu (2006)][oeste]](../../../../../img/posts/Parana_Meso_OesteParanaense.svg)
-
 
 [oeste]: https://commons.wikimedia.org/wiki/File:Parana_Meso_OesteParanaense.svg
 
@@ -25,8 +23,6 @@ O professor Anderson traz consigo dois alunos graduandos do curso de Agronomia d
 
 [alexsandrolattes]: http://lattes.cnpq.br/0776212239076510
 
-
 Esses são os três novos colaboradores do ___febr___. Seu esforço deverá mudar drasticamente a representação da Mesorregião Geográfica do Oeste Paranaense no ___febr___, que hoje contém menos de [uma dezena](../../../../../view.html) de observações. O [PronaSolos Paraná][pronasolospr], que inicia suas atividades de mapeamento do solo na Bacia do Paraná III, poderá se beneficiar diretamente a partir do compartilhamento imediato desses dados. É o ___febr___ contribuindo para a otimização do uso dos recursos públicos, eliminando a necessidade de amostragens em locais já previamente amostrados.
 
 [pronasolospr]: https://www.embrapa.br/en/busca-de-noticias/-/noticia/38130974/pronasolos-comeca-trabalho-de-levantamento-de-dados-no-parana
-
