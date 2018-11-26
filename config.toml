@@ -26,18 +26,18 @@ paginate = 10
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 2
+    weight = 3
 
-#[[menu.main]]
-#    name = "FAQ"
-#    identifier = "faq"
-#    url  = "/faq/"
-#    weight = 3
+[[menu.main]]
+    name = "Dados"
+    #identifier = "faq"
+    url  = "/dados/"
+    weight = 2
 
 [[menu.main]]
     name = "Contato"
     url  = "/contact/"
-    weight = 3
+    weight = 4
 
 # Top bar social links menu
 
