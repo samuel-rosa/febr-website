@@ -8,7 +8,7 @@ author: "Matheus Ferreira Ramos & Alessandro Samuel-Rosa"
 
 O ano de 2018 foi de muito sucesso para o ___febr___: a equipe de gestão ganhou novos membros, vários conjuntos de dados foram publicados ou revisados, e muitos pesquisadores passaram a apostar no projeto, principalmente depois da presença de destaque do ___febr___ em eventos nacionais e internacionais. Em 2019, o objetivo do ___febr___ é continuar crescendo e fornecer novos serviços que facilitam o dia-a-dia dos produtores e usuários de dados do solo. E, para celebrar o Dia Nacional da Conservação do Solo, o ___febr___ lançada seu mais nova ferramenta de busca e visualização de dados.
 
-```{r}
+```{r, echo=FALSE}
 knitr::include_url("https://pedometria.shinyapps.io/febr/")
 ```
 
