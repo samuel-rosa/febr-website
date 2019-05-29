@@ -6,11 +6,11 @@ banner: "img/banners/banner-10.png"
 author: "Matheus Ferreira Ramos & Alessandro Samuel-Rosa"
 ---
 
-O ano de 2018 foi de muito sucesso para o ___febr___: a equipe de gestão ganhou novos membros, vários conjuntos de dados foram publicados ou revisados, e muitos pesquisadores passaram a apostar no projeto, principalmente depois da presença de destaque do ___febr___ em eventos nacionais e internacionais. Em 2019, o objetivo do ___febr___ é continuar crescendo e fornecer novos serviços que facilitam o dia-a-dia dos produtores e usuários de dados do solo. E, para celebrar o Dia Nacional da Conservação do Solo, o ___febr___ lançada seu mais nova ferramenta de busca e visualização de dados.
+O ano de 2018 foi de muito sucesso para o ___febr___: a equipe de gestão ganhou novos membros, vários conjuntos de dados foram publicados ou revisados, e muitos pesquisadores passaram a apostar no projeto, principalmente depois da presença de destaque do ___febr___ em eventos nacionais e internacionais. Em 2019, o objetivo do ___febr___ é continuar crescendo e fornecer novos serviços que facilitam o dia a dia dos produtores e usuários de dados do solo. E, para celebrar o Dia Nacional da Conservação do Solo, o ___febr___ lançada seu mais [nova ferramenta de busca e visualização de dados][nova].
 
-```{r}
-knitr::include_url("https://pedometria.shinyapps.io/febr/")
-```
+[nova]: https://pedometria.shinyapps.io/febr/
+
+<iframe height="400" width="840" src="https://pedometria.shinyapps.io/febr/"></iframe>
 
 A nova ferramenta foi planejada para auxiliar os usuários de dados a encontrar, com maior facilidade, os dados do solo de seu interesse. Para isso, a ferramenta possui inúmeras opções de filtragem, todas elas simples e intuitivas, o que a torna de muito fácil uso. O painel de filtragem, localizado à esquerda, permite escolher a unidade federativa, o município, a classificação taxonômica, a data de observação e a profundidade do solo. Os dados aparecem nas três abas localizadas à direita. A primeira delas, “Informações gerais”, identifica o conjunto de dados, as observações, a cidade, a unidade da federação e as coordenadas espaciais. À medida que o usuário altera os filtros, a tabela “Informações gerais” mostra imediatamente os resultados filtrados. Por exemplo, se o usuário selecionar “São Paulo” no filtro “UF”, na aba “Informações gerais” irão aparecer todos os dados de solo do estado de São Paulo contidos no ___febr___.
 
@@ -22,6 +22,6 @@ A última aba de busca e visualização de dados é a aba “Localização”. N
 
 A nova ferramenta de busca e visualização de dados não poderia deixar de incluir a opção de descarregamento dos dados. Com ou sem filtragem, os dados padronizados e harmonizados do ___febr___ podem ser facilmente descarregados na aba "Descarregar" usando o formato TXT com as colunas separadas por um _tab_.
 
-O ___febr___ espera que você goste da nova ferramenta e compartilhe com seus colegas a novidade. Mas como a meta do ___febr___ é facilitar o dia-a-dia dos produtores e usuários de dados, não esqueça de deixar a sua contribuição. Acesso o [formulário][link] na aba "Deixe sua opinião" e deixe sua opinião. Serão apenas cinco minutinhos!
+O ___febr___ espera que você goste da nova ferramenta e compartilhe com seus colegas a novidade. Mas como a meta do ___febr___ é facilitar o dia a dia dos produtores e usuários de dados, não esqueça de deixar a sua contribuição. Acesso o [formulário][link] na aba "Deixe sua opinião" e deixe sua opinião. Serão apenas cinco minutinhos!
 
 [link]:  https://forms.gle/4L8WU6HjoLSUZBLc7
