@@ -26,7 +26,6 @@ paginate = 10
 [[menu.main]]
     name = "Notícias"
     url  = "/blog/"
-    #url  = "/noticias/"
     weight = 3
 
 [[menu.main]]
@@ -116,7 +115,7 @@ paginate = 10
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
-
+    
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
