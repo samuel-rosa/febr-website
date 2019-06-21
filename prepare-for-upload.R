@@ -2,7 +2,7 @@
 rmarkdown::render_site(encoding = 'UTF-8')
 
 # Remove folders
-folders <- c("carousel", "clients", "testimonials")
+folders <- c("carousel", "clients")
 folders <- glue::glue("rm -r public/img/{folders}")
 lapply(folders, system)
 
