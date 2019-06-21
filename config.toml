@@ -24,8 +24,9 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "Notícias"
     url  = "/blog/"
+    #url  = "/noticias/"
     weight = 3
 
 [[menu.main]]
@@ -169,5 +170,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "Do nosso blog"
+    title = "Notícias recentes"
     subtitle = ""
