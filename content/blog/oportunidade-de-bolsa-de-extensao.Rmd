@@ -6,36 +6,38 @@ banner: "img/banners/cedulas-de-real.jpg"
 author: "Alessandro Samuel-Rosa"
 ---
 
-O Repositório Brasileiro Livre para Dados Abertos do Solo (___febr___) acaba de ser avaliado como o sexto melhor projeto de extensão da Universidade Tecnológica Federal do Paraná ([UTFPR][utfpr]). Com isso, o ___febr___ (provavelmente) terá direito a uma bolsa para estudante, regularmente matriculado em curso de graduação da UTFPR Santa Helena, entre os meses de agosto de 2019 e julho de 2020, no valor mensal de __R$ 400,00__. A garantia da bolsa depende da disponibilidade e liberação dos recursos da PROREC e da Fundação Araucária.
+O Repositório Brasileiro Livre para Dados Abertos do Solo (___febr___) acaba de ser avaliado como o sexto melhor projeto de extensão da Universidade Tecnológica Federal do Paraná ([UTFPR][utfpr]). Com isso, o ___febr___ terá direito a uma bolsa para estudante regularmente matriculado em curso de graduação da UTFPR Santa Helena. Com vigência de um ano e no valor mensal de __R$ 400,00__, a previsão é que a bolsa tenha início em setembro (Fundação Araucária) ou outubro (PROREC-UTFPR). A garantia da bolsa depende da disponibilidade e liberação dos recursos da PROREC e da Fundação Araucária.
 
 [utfpr]: http://portal.utfpr.edu.br/editais/relacoes-empresariais-e-comunitarias/reitoria/extensao/edital-prorec-extensao
 
-
 ## Como participar
 
-O ___febr___ está selecionando um estudante regularmente matriculado em curso de graduação da UTFPR Santa Helena. O __requisito__ é que o estudante ainda tenha, pelo menos, 12 meses a cumprir, e já tenha cursado as seguintes disciplinas do curso de bacharelado em __Ciência da Computação__:
+O ___febr___ está buscando um estudante regularmente matriculado em curso de graduação da UTFPR Santa Helena. O __requisito__ é que o estudante ainda tenha, pelo menos, 12 meses a cumprir, e já tenha cursado, ou esteja cursando, as seguintes disciplinas do curso de bacharelado em __Ciência da Computação__:
 
 * Fundamentos de Programação,
 * Fundamentos de Banco de Dados, e
 * Sistemas Gerenciadores de Banco de Dados.
 
-O período de inscrição vai de __24 de junho__, segunda-feira, até o final da tarde do dia __27 de junho de 2019__, quinta-feira, na sala da coordenação do curso Agronomia, Bloco J da UTFPR Santa Helena, com o [Prof. Alessandro Samuel-Rosa][alessandro].
+A inscrição deve ser feita na sala da coordenação do curso Agronomia, Bloco J da UTFPR Santa Helena, com o [Prof. Alessandro Samuel-Rosa][alessandro].
+
+<!-- O período de inscrição vai de __24 de junho__, segunda-feira, até o final da tarde do dia __27 de junho de 2019__, quinta-feira, na sala da coordenação do curso Agronomia, Bloco J da UTFPR Santa Helena, com o [Prof. Alessandro Samuel-Rosa][alessandro]. -->
 
 [alessandro]: http://samuel-rosa.github.io/
 
-Uma breve entrevista será feita no momento da inscrição, quando será avaliado o potencial discente de realizar as atividades previstas no projeto ([link][projeto]) e descritas no plano de trabalho ([link][plano]). Uma nova entrevista poderá ser realizada na manhã do dia seguinte, __28 de junho de 2019__, sexta-feira.
+Uma entrevista será feita no momento da inscrição, quando será avaliado o potencial discente de realizar as atividades previstas no projeto ([link][projeto]) e descritas no plano de trabalho ([link][plano]).
+<!-- Uma nova entrevista poderá ser realizada na manhã do dia seguinte, __28 de junho de 2019__, sexta-feira. -->
 
 [projeto]: https://mfr.osf.io/render?url=https://osf.io/ybpn2/?action=download%26mode=render
 [plano]: https://mfr.osf.io/render?url=https://osf.io/nhkrb/?action=download%26mode=render
 
-O resultado será informado aos inscritos por e-mail na tarde do dia __28 de junho de 2019__. O início da vigência da bolsa está previsto para agosto de 2019.
+<!-- O resultado será informado aos inscritos por e-mail na tarde do dia __28 de junho de 2019__. O início da vigência da bolsa está previsto para agosto de 2019. -->
 
 ## Documentação exigida
 
 1. Declaração de matrícula em curso de graduação da UTFPR Santa Helena,
 2. Declaração de próprio punho de que não acumula bolsa, conforme consta na página de editais da UTFPR 
    ([link][declaracao]), e
-3. Histórico escolar comprovando ter cursado as disciplinas Fundamentos de Programação, Fundamentos de Banco de Dados, e Sistemas Gerenciadores de Banco de Dados.
+3. Histórico escolar da graduação.
 <!-- 3. Declaração emitida pelo DERAC da UTFPR Santa Helena confirmando o ingresso na modalidade de cotista. -->
 
 [declaracao]: http://www.utfpr.edu.br/estrutura-universitaria/diretorias-de-gestao/dircom/noticias/noticias/link/DECLARAODENOACMULODEBOLSA.pdf
