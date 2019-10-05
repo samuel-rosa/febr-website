@@ -25,16 +25,16 @@ Se você é um __usuário de dados__ do solo, então você chegou ao lugar certo
 
 Encontrar os dados de que que você precisa no ___febr___ é muito fácil. Você pode iniciar navegando pelo [território brasileiro][view] até encontrar os dados para a sua área de estudo. Mas se você já sabe qual conjunto de dados quer utilizar, então você pode ir diretamente ao [catálogo][catalogo] de conjuntos de dados. Caso você seja um usuário do R, então você tem à sua disposição um [pacote][pacote] dedicado exclusivamente ao descarregamento dos dados publicados no ___febr___.
 
-[view]: "http://www.ufsm.br/febr/view.html"
-[catalogo]: "http://www.ufsm.br/febr/catalog/"
-[pacote]: "https://github.com/samuel-rosa/febr-package"
+[view]: http://www.ufsm.br/febr/view.html
+[catalogo]: http://www.ufsm.br/febr/catalog/
+[pacote]: https://github.com/samuel-rosa/febr-package
 
 Nós também publicamos, periodicamente, aquilo que chamamos de super conjunto de dados do solo. Trata-se de um conjunto de dados do solo, distribuído num único arquivo CSV, produzido a partir do processamento de todos os conjuntos de dados publicados no ___febr___. A preparação do super conjunto de dados inclui alguns passos de padronização e harmonização bastante básicos, mas que permitem desenvolver estudos para todo o território brasileiro.
 
 Existem duas maneiras de acessar nosso super conjunto de dados. A primeira delas é [descarregando][descarregar] o mesmo diretamente para o seu computador. A segunda, consiste em visitar a página de [busca de dados][busca], que inclui diversas opções de filtragem de dados.
 
 [descarregar]: https://github.com/febr-team/febr-data/tree/master/data
-[busca]: "https://pedometria.shinyapps.io/febr/"
+[busca]: https://pedometria.shinyapps.io/febr/
 
 <br>
 <br>
