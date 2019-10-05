@@ -1,5 +1,6 @@
 # Build site
 rmarkdown::render_site(encoding = 'UTF-8')
+blogdown::serve_site()
 
 # Remove folders
 folders <- c("carousel", "clients")
