@@ -159,7 +159,7 @@ paginate = 10
     enable = true
     icon = "fa fa-table"
     title = "DADOS!"
-    subtitle = "Você quer compartilhar os dados do seu estudo e não sabe como? Você está procurando por dados para as suas pesquisas e não sabe onde? Nós temos boas notícias: você está no lugar certo!"
+    subtitle = "Você quer compartilhar os dados do seu estudo e não sabe como? Você está procurando por dados para as suas pesquisas e não sabe onde? Nós temos uma boa notícia: você está no lugar certo!"
     #link_url = "https://drive.google.com/open?id=1w4LBQbLBFtnzRipFu8T4-rDszZSzahajLCyZWDkHQr0"
     link_url = "/dados/"
     link_text = "Quero saber mais!"
