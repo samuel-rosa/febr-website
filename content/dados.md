@@ -6,16 +6,24 @@ title = "Dados"
 
 Se você é um __produtor de dados__ do solo e chegou até esta página, então é porque você está interessando em compartilhar os dados que você produziu em seus estudos.
 
-Com o ___febr___ ficou muito fácil compartilhar dados do solo. Tudo o que você precisa fazer é organizar os dados em uma planilha eletrônica e enviá-la para a gente -- [descarregue um modelo][modelo-simples] agora mesmo. Você só precisa seguir algumas regras bastante simples:
+> Se você ainda não conhece nossa [política de dados][politica], recomendamos que você se familarize com a mesma antes de continuar!
 
-1. Organize os dados de maneira que os registros -- perfis ou amostras do solo -- fiquem nas linhas e as variáveis -- propriedades ou características do solo -- fiquem nas colunas.
-  + Para evitar repetição, coloque os dados relativos ao local de amostragem -- coordenadas, data, classe taxonômica -- na primeira aba da planilha, e os dados analíticos das camadas amostradas na segunda aba.
-2. Coloque o nome das variáveis na primeira linha e a respectiva unidade de medida na segunda linha.
+Com o ___febr___, ficou muito fácil compartilhar dados do solo. Tudo o que você precisa fazer é organizar os dados em uma planilha eletrônica e enviá-la para a gente -- [descarregue um modelo][modelo-simples] agora mesmo. Você só precisa seguir algumas regras bastante simples:
+
+1. Inicie fornecendo informações básicas sobre os dados como, por exemplo, um título e uma breve descrição,
+  além, é claro, dos seus dados para contato. 
+2. Organize os dados de maneira que os registros -- perfis ou amostras do solo -- fiquem nas linhas e as
+  variáveis -- propriedades ou características do solo -- fiquem nas colunas.
+  + Para evitar repetição, coloque os dados relativos ao local de amostragem -- coordenadas, data, classe
+    taxonômica -- na segunda aba da planilha, e os dados analíticos das camadas amostradas na terceira aba.
+3. Coloque o nome das variáveis na primeira linha e a respectiva unidade de medida na segunda linha.
 3. Descreva os métodos analíticos usados para determinar cada uma das variáveis.
-    + Faça isso na terceira aba, colocando o nome das variáveis na primeira coluna e a descrição dos respectivos métodos na segunda coluna.
+    + Faça isso na quarta aba, colocando o nome das variáveis na primeira coluna e a descrição dos respectivos
+      métodos na segunda coluna.
 
 Se você já estiver familiarizado com o ___febr___ e os nossos padrões de organização e armazenamento de dados do solo, então você pode organizar seus dados usando nosso [modelo avançado][modelo-avancado] de planilha eletrônica.
 
+[politica]: https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0
 [modelo-simples]: https://docs.google.com/spreadsheets/d/1crDNClXIzAuZNQLILKMMYk9rgCdYsZimX2Z2dKK6Ivo
 [modelo-avancado]: https://drive.google.com/open?id=1w4LBQbLBFtnzRipFu8T4-rDszZSzahajLCyZWDkHQr0
 
