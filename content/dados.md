@@ -2,34 +2,36 @@
 title = "Dados"
 +++
 
-### Quero compartilhar os dados do meu estudo
+### Quero compartilhar dados
 
-Se você é um __produtor de dados__ do solo e chegou até esta página, então é porque você está interessando em compartilhar os dados que você produziu em seus estudos.
+Se você é um __produtor de dados__ do solo e chegou até esta página, então é porque você está interessando em compartilhar os dados que você produziu em seus estudos. Você quer se tornar um __provedor de dados__!
 
-> Se você ainda não conhece nossa [política de dados][politica], recomendamos que você se familarize com a mesma antes de continuar!
+> Antes de continuar, certifique-se de que você conhece nossa [política de dados](/febr/politica-de-dados)!
 
 Com o ___febr___, ficou muito fácil compartilhar dados do solo. Tudo o que você precisa fazer é organizar os dados em uma planilha eletrônica e enviá-la para a gente -- [descarregue um modelo][modelo-simples] agora mesmo. Você só precisa seguir algumas regras bastante simples:
 
-1. Inicie fornecendo informações básicas sobre os dados como, por exemplo, um título e uma breve descrição,
-  além, é claro, dos seus dados para contato. 
-2. Organize os dados de maneira que os registros -- perfis ou amostras do solo -- fiquem nas linhas e as
-  variáveis -- propriedades ou características do solo -- fiquem nas colunas.
-  + Para evitar repetição, coloque os dados relativos ao local de amostragem -- coordenadas, data, classe
-    taxonômica -- na segunda aba da planilha, e os dados analíticos das camadas amostradas na terceira aba.
-3. Coloque o nome das variáveis na primeira linha e a respectiva unidade de medida na segunda linha.
-3. Descreva os métodos analíticos usados para determinar cada uma das variáveis.
-    + Faça isso na quarta aba, colocando o nome das variáveis na primeira coluna e a descrição dos respectivos
-      métodos na segunda coluna.
+1. Forneça informações básicas sobre os dados como, por exemplo, um título e uma breve descrição, além, é 
+  claro, da sua identificação e informações para contato.
+2. Organize os dados de maneira que os registros -- perfis, observações ou amostras do solo -- fiquem nas 
+  linhas e as variáveis -- propriedades, características ou atributos do solo -- fiquem nas colunas.
+  + Para evitar repetição, coloque os dados relativos ao local de observação/amostragem -- coordenadas, data,
+  classe taxonômica -- na segunda aba da planilha, e os dados analíticos das camadas amostradas na terceira aba.
+3. Use a primeira linha para informar o nome das variáveis e, a segunda linha, para a respectiva unidade de
+  medida.
+4. Descreva os métodos analíticos usados para determinar cada uma das variáveis.
+  + Faça isso na quarta aba, colocando o nome das variáveis na primeira coluna e a descrição do respectivo
+  método analítico na segunda coluna.
 
-Se você já estiver familiarizado com o ___febr___ e os nossos padrões de organização e armazenamento de dados do solo, então você pode organizar seus dados usando nosso [modelo avançado][modelo-avancado] de planilha eletrônica.
+Se você já estiver familiarizado com o ___febr___ e os nossos padrões de organização, armazenamento e distribuição de dados, então você pode organizar seus dados usando nosso [modelo avançado][modelo-avancado] de planilha eletrônica.
 
-[politica]: https://docs.google.com/document/d/11c0HzGdT51xPEc6V7WLqTaOjX6AAfsZC9O9uMxTcmW0
 [modelo-simples]: https://docs.google.com/spreadsheets/d/1crDNClXIzAuZNQLILKMMYk9rgCdYsZimX2Z2dKK6Ivo
 [modelo-avancado]: https://drive.google.com/open?id=1w4LBQbLBFtnzRipFu8T4-rDszZSzahajLCyZWDkHQr0
 
-### Estou procurando dados para meu estudo
+### Estou em busca de dados
 
 Se você é um __usuário de dados__ do solo, então você chegou ao lugar certo. O ___febr___ é o maior repositório de dados do solo do Brasil. Aqui você encontra dados das mais variadas propriedades do solo dos diversos locais do país. Dados que estão abertos para reúso!
+
+> Se você ainda não o fez, certifique-se de que conhece nossa [política de dados](/febr/politica-de-dados)!
 
 Encontrar os dados de que que você precisa no ___febr___ é muito fácil. Você pode iniciar navegando pelo [território brasileiro][view] até encontrar os dados para a sua área de estudo. Mas se você já sabe qual conjunto de dados quer utilizar, então você pode ir diretamente ao [catálogo][catalogo] de conjuntos de dados. Caso você seja um usuário do R, então você tem à sua disposição um [pacote][pacote] dedicado exclusivamente ao descarregamento dos dados publicados no ___febr___.
 
@@ -43,6 +45,10 @@ Existem duas maneiras de acessar nosso super conjunto de dados. A primeira delas
 
 [descarregar]: https://github.com/febr-team/febr-data/tree/master/data
 [busca]: https://pedometria.shinyapps.io/febr/
+
+<br>
+
+___Aviso legal:___ _Usando o portal web do FEBR e seus serviços web, o usuário aceita a [política de dados](/febr/politica-de-dados) do FEBR na íntegra. Para reconhecer os cientistas e/ou organizações que forneceram dados, o FEBR solicita que os usuários de dados incluam uma citação bibliográfica, para todos os dados fornecidos pelo FEBR, em produtos, websites e publicações._
 
 <br>
 <br>
