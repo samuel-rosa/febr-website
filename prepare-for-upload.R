@@ -16,7 +16,7 @@ lapply(files, system)
 if(Sys.info() == "Linux") {
   system("cd public && zip -r upload.zip *")
 } else if (Sys.info() == "Windows") {
-  system("cd public && ") # Matheus, descobrir e inserir comando do Windows para zipar!
+  system("cd public && ") # Descobrir e inserir comando do Windows para zipar!
 }
 
 # Open server portal
