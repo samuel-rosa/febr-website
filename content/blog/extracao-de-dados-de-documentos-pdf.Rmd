@@ -20,9 +20,9 @@ No FEBR, nós elegemos o Tabula como a ferramenta para extração de dados do so
 
 Desenvolvido na linguagem [Java][java], o Tabula não tem a necessidade de ser instalado. Basta descarregar a ferramenta, de acordo com o sistema operacional do seu computador, e executar o arquivo [tabula.jar][jar]. Ao fazer isso, o Tabula inicializa seu navegador da Internet preferido, abrindo uma página com o endereço local `http://127.0.0.1:8080` -- conforme mostra a figura abaixo.
 
-<!-- (Caso você tenha alguma dúvida sobre como executar o Tabula, consulte o [manual][manual] que nós preparamos.) -->
+(Caso você tenha alguma dúvida sobre como executar o Tabula, consulte a [matéria][materia] com algumas dicas que nós preparamos.)
 
-<!-- [manual]:  -->
+[materia]: /blog/2019/12/03/dicas-descarregamento-execucao-tabula/
 [jar]: https://pt.wikipedia.org/wiki/JAR_(formato_de_arquivo)
 [csv]: https://pt.wikipedia.org/wiki/Comma-separated_values
 [tsv]: https://www.reviversoft.com/pt/file-extensions/tsv
