@@ -37,9 +37,10 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    #identifier = "contact"
+    #identifier = "contato"
     name = "Contato"
-    url  = "/contact/"
+    #url  = "/contact/"
+    url  = "/contato/"
     weight = 4
 
 # Top bar social links menu
@@ -104,14 +105,12 @@ paginate = 10
     date_format = "02-01-2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Equipe febr</strong>
+    address = """<p><strong>Laboratório de Pedometria</strong>
         <br>Prolongamento da Rua Cerejeira, s/n, Bloco J
         <br>Bairro São Luiz
-        <br>Santa Helena - PR
+        <br>Santa Helena - PR - Brasil
         <br>CEP: 85892-000
         <br>Fone: +55 (45) 3268-8818
-        <br>
-        <strong>Brasil</strong>
       </p>
       """
     #latitude = "-12.043333"
