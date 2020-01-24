@@ -13,7 +13,7 @@ files <- glue::glue("rm public/img/{files}")
 lapply(files, system)
 
 # Compress files
-if(Sys.info() == "Linux") {
+if(Sys.info()['sysname'] == "Linux") {
   system("cd public && zip -r upload.zip *")
 } else if (Sys.info() == "Windows") {
   system("cd public && ") # Descobrir e inserir comando do Windows para zipar!

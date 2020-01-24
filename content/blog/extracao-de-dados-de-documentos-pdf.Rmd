@@ -16,7 +16,7 @@ Uma solução mais recente são os softwares de extração de dados de documento
 [rows]: https://github.com/turicas/rows
 [pdftables]: https://pdftables.com/pdf-to-excel-api
 
-No FEBR, nós elegemos o Tabula como a ferramenta para extração de dados do solo de documentos PDF. Os principais critérios considerados para isso foram o fato de ser um software livre e de código aberto, que pode ser utilizado em praticamente qualquer sistema operacional (Linux, Windows e MacOS). Além disso, o Tabula exporta os dados extraídos do documento PDF para formatos de arquivo de texto delimitado como [CSV][csv] e [TSV][tsv], que podem ser importados para dentro de qualquer editor de planilhas eletrônicas. Isso, sem dúvidas, facilita muito a manipulação posterior dos dados.
+No ___febr___, nós elegemos o Tabula como a ferramenta para extração de dados do solo de documentos PDF. Os principais critérios considerados para isso foram o fato de ser um software livre e de código aberto, que pode ser utilizado em praticamente qualquer sistema operacional (Linux, Windows e MacOS). Além disso, o Tabula exporta os dados extraídos do documento PDF para formatos de arquivo de texto delimitado como [CSV][csv] e [TSV][tsv], que podem ser importados para dentro de qualquer editor de planilhas eletrônicas. Isso, sem dúvidas, facilita muito a manipulação posterior dos dados.
 
 Desenvolvido na linguagem [Java][java], o Tabula não tem a necessidade de ser instalado. Basta descarregar a ferramenta, de acordo com o sistema operacional do seu computador, e executar o arquivo [tabula.jar][jar]. Ao fazer isso, o Tabula inicializa seu navegador da Internet preferido, abrindo uma página com o endereço local `http://127.0.0.1:8080` -- conforme mostra a figura abaixo.
 
@@ -62,7 +62,7 @@ O Tabula é uma ótima ferramenta para libertar dados presos em arquivos PDF. Su
 
 [ctb0572]: http://coral.ufsm.br/febr/catalog/ctb0572.html
 
-Ao todo, a extração dos dados e pós-processamento, tomaram cerca de cinco horas: três horas para a extração e duas horas para o pós-processamento. A extração envolveu a organização do arquivo PDF e a seleção da área de extração dos dados. O pós-processamento envolveu a união dos dados das diferentes tabelas, a correção de inconsistências, e a formatação dos dados segundo os padrões do FEBR.
+Ao todo, a extração dos dados e pós-processamento, tomaram cerca de cinco horas: três horas para a extração e duas horas para o pós-processamento. A extração envolveu a organização do arquivo PDF e a seleção da área de extração dos dados. O pós-processamento envolveu a união dos dados das diferentes tabelas, a correção de inconsistências, e a formatação dos dados segundo os padrões do ___febr___.
 
 A principal inconsistência encontrada nos dados extraídos foi nas tabelas de análise química, onde percebemos a junção dos dados dos elementos Ca^2+^ e Mg^2+^. Isso ocorreu devido à estratégia usada pelos autores do trabalho para apresentar os dados da soma dos dois elementos. Durante o pós-processamento dos dados, essa inconsistência foi resolvida criando uma coluna específica para os dados de Ca^2+^ + Mg^2+^.
 
