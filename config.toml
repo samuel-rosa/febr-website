@@ -79,7 +79,8 @@ paginate = 10
     #googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    #style = "default"
+    style = "red"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -105,6 +106,7 @@ paginate = 10
     date_format = "02-01-2006"
 
     logo = "img/logo.png"
+    # logo.png: 
     address = """<p><strong>Laboratório de Pedometria</strong>
         <br>Prolongamento da Rua Cerejeira, s/n, Bloco J
         <br>Bairro São Luiz

@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8138"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    width="2.7cm"
    height="1.1cm"
    viewBox="0 0 95.669295 38.976378"
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,29 +40,28 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1025"
      id="namedview8140"
      showgrid="false"
-     inkscape:zoom="3.8276856"
-     inkscape:cx="24.622791"
-     inkscape:cy="41.970867"
+     inkscape:zoom="7.3485375"
+     inkscape:cx="65.769175"
+     inkscape:cy="8.9378883"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8138"
      units="cm" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="0.077078156"
-     y="37.066315"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-0.60504073"
+     y="36.970688"
      id="text8148"
-     sodipodi:linespacing="125%"
-     inkscape:export-xdpi="72"
-     inkscape:export-ydpi="72"><tspan
+     inkscape:export-xdpi="55.299999"
+     inkscape:export-ydpi="55.299999"><tspan
        sodipodi:role="line"
-       x="0.077078156"
-       y="37.066315"
+       x="-0.60504073"
+       y="36.970688"
        id="tspan8152"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">febr</tspan></text>
   <rect
@@ -74,4 +73,17 @@
      y="-67.955666"
      inkscape:export-xdpi="72"
      inkscape:export-ydpi="72" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:14.0625px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff3030;fill-opacity:1;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="95.824333"
+     y="36.152252"
+     id="text4748"
+     inkscape:export-xdpi="55.299999"
+     inkscape:export-ydpi="55.299999"><tspan
+       sodipodi:role="line"
+       id="tspan4746"
+       x="95.824333"
+       y="36.152252"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'TeX Gyre Chorus';-inkscape-font-specification:'TeX Gyre Chorus Bold';fill:#da4d4d;fill-opacity:1;stroke-width:0.9375px">solos</tspan></text>
 </svg>

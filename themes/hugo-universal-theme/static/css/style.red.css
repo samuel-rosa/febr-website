@@ -2912,7 +2912,8 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .navbar-brand {
   float: left;
-  padding: 10px 15px;
+  /*padding: 10px 15px; conf abaixo lida com novo logo*/
+  padding: 15px 15px;
   font-size: 18px;
   line-height: 20px;
   height: 62px;
