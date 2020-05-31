@@ -8,12 +8,8 @@ author: "Marcos Alexandre dos Anjos"
 ---
 
 ```{r, echo=FALSE}
-library(magrittr)
 knitr::opts_chunk$set(echo = FALSE)
-post_img <-
-  function (filepath) {
-    glue::glue('../../../../../img/posts/{filepath}') %>% knitr::include_graphics()
-  }
+source('helper.R')
 ```
 
 Você já deve estar sabendo que o ___febr___ elegeu o Tabula como ferramenta de extração de dados do solo de arquivos no formato PDF. Se não sabe, então leia nossa [matéria][materia] anterior sobre o uso do Tabula. Na presente matéria você vai saber mais sobre como descarregar e executar o Tábula nos sistemas operacional [Ubuntu 18.04 LTS][ubuntu] e [Windows 10][windows].
@@ -38,32 +34,37 @@ Feito isso, você precisa seguir apenas três passos bastante simples.
 
 Descarregar o programa do site oficial do Tabula em <https://tabula.technology/>.
 
-```{r, fig.cap='Página inicial do Tabula', out.width='100%'}
-post_img('dicas-descarregamento-execucao-tabula/tabula-inicio.png')
+```{r, results='asis'}
+img(path = 'dicas-descarregamento-execucao-tabula/tabula-inicio.png',
+    caption = 'Página inicial do Tabula.', width = '50%')
 ```
 
-```{r, fig.cap='Download do arquivo, no formato zip.', out.width='60%'}
-post_img('dicas-descarregamento-execucao-tabula/download-tabula.png')
+```{r, results='asis'}
+img(path = 'dicas-descarregamento-execucao-tabula/download-tabula.png', 
+    caption = 'Download do arquivo, no formato zip.', width = '60%')
 ```
 
 ### Passo 2
 
-Descompactar o arquivo zip em uma pasta de sua preferência.
+Descompactar o arquivo ZIP em uma pasta de sua preferência.
 
-```{r, fig.cap='Abrindo arquivo zip para extrair os arquivos do Tabula.', out.width='100%'}
-post_img('dicas-descarregamento-execucao-tabula/extrair-tabula.png')
+```{r, results='asis'}
+img(path = 'dicas-descarregamento-execucao-tabula/extrair-tabula.png', 
+    caption = 'Abrindo arquivo zip para extrair os arquivos do Tabula.')
 ```
 
-```{r, fig.cap='Arquivos do Tabula.', out.width='100%'}
-post_img('dicas-descarregamento-execucao-tabula/arquivos-extraidos.png')
+```{r, results='asis'}
+img(path = 'dicas-descarregamento-execucao-tabula/arquivos-extraidos.png', 
+    caption = 'Arquivos do Tabula.')
 ```
 
 ### Passo 3
 
 Inicializar o Tabula. No __Windows 10__, basta pressionar sobre o arquivo `tabula.jar` com o botão direito do mouse e selecionar `Abrir`. Seu navegador preferido será inicializado no endereço local `http://127.0.0.1:8080/`. No __Ubuntu 18.04 LTS__, você precisará de uma manipulação adicional... veja abaixo.
 
-```{r, fig.cap='Inicialização do Tabula no Windows 10', out.width='100%'}
-post_img('dicas-descarregamento-execucao-tabula/executar-tabula.png')
+```{r, results='asis'}
+img(path = 'dicas-descarregamento-execucao-tabula/executar-tabula.png', 
+    caption = 'Inicialização do Tabula no Windows 10.')
 ```
 
 Para inicializar o Tabula no Ubuntu 18.04 LTS, é preciso abrir uma janela do terminal, na pasta onde se encontram os arquivos do Tabula. Em seguida, basta digitar o seguinte comando:
@@ -72,14 +73,16 @@ Para inicializar o Tabula no Ubuntu 18.04 LTS, é preciso abrir uma janela do te
 java -Dfile.encoding=utf-8 -Xms256M -Xmx1024M -jar tabula.jar
 ```
 
-```{r, fig.cap='Execução do Tabula no Ubuntu 18.04 LTS via comando no terminal.', out.width='100%'}
-post_img('dicas-descarregamento-execucao-tabula/executar-terminal.png')
+```{r, results='asis'}
+img(path = 'dicas-descarregamento-execucao-tabula/executar-terminal.png', 
+    caption = 'Execução do Tabula no Ubuntu 18.04 LTS via comando no terminal.')
 ```
 
 Em seguida, abra o navegador de sua preferência e vá até o endereço local `http://127.0.0.1:8080/`.
 
-```{r, fig.cap='Interface do Tabula', out.width='100%'}
-post_img('dicas-descarregamento-execucao-tabula/pagina-inicial-tabula.png')
+```{r, results='asis'}
+img(path = 'dicas-descarregamento-execucao-tabula/pagina-inicial-tabula.png', 
+    caption = 'Interface do Tabula.')
 ```
 
 Viu como é fácil?
