@@ -106,7 +106,7 @@ paginate = 10
     date_format = "02-01-2006"
 
     logo = "img/logo.png"
-    # logo.png: 
+    # logo original: 83 x 38 px 
     address = """<p><strong>Laboratório de Pedometria</strong>
         <br>Prolongamento da Rua Cerejeira, s/n, Bloco J
         <br>Bairro São Luiz
