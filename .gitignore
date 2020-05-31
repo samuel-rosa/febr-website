@@ -5,3 +5,5 @@
 public
 docs
 upload.zip
+packrat/lib*/
+packrat/src/
