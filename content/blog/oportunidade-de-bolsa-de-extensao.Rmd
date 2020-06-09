@@ -1,7 +1,7 @@
 ---
 title: "Bolsa de Extensão para Estudante da Ciência da Computação"
 date: "2019-06-21"
-categories: ["notícia"]
+categories: ["bolsa"]
 banner: "img/banners/cedulas-de-real.jpg"
 author: "Alessandro Samuel-Rosa"
 ---
