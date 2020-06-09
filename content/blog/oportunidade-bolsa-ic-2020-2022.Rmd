@@ -1,0 +1,64 @@
+---
+title: "Bolsa de IC de Dois Anos para Estudante da Agronomia"
+date: "2020-06-08"
+categories: ["bolsa"]
+banner: "img/banners/computer.jpg"
+author: "Alessandro Samuel-Rosa"
+---
+
+O Repositório Brasileiro Livre para Dados Abertos do Solo é um dos sete projetos das ciências agrárias selecionados no [Programa de Infraestrutura para Jovens Pesquisadores][ppp] da Fundação Araucária. O recurso concedido inclui uma bolsa de iniciação científica com vigência de dois anos, com previsão para implementação até o final do mês de junho.
+
+[ppp]: http://www.fappr.pr.gov.br/arquivos/File/diretoria/atos2020/AtoDefa2020_005_CP2018_PPP.pdf
+
+### Como participar
+
+Estamos procurando um estudante do curso de __Agronomia__ da UTFPR Santa Helena que seja proativo e dedicado, tenha disponibilidade para trabalhar 20 horas por semana, e que já tenha cursado, ou esteja cursando, as seguintes disciplinas:
+
+* Gênese e Morfologia do Solo, e
+* Química Analítica.
+
+Se você tiver interesse em trabalhar conosco, envie (1) uma [carta de apresentação][carta], (2) seu histórico escolar e (3) [currículo Lattes][lattes] para o endereço alessandrorosa@utfpr.edu.br até o dia __19 de junho de 2020__.
+
+[carta]: http://g1.globo.com/concursos-e-emprego/noticia/2013/08/veja-como-fazer-uma-carta-de-apresentacao-para-vaga-de-emprego.html
+[lattes]: http://lattes.cnpq.br/
+
+### Plano de atividades
+
+Se você for selecionado para trabalhar conosco, será responsável pelo desenvolvimento de dois pacotes de trabalho. São eles:
+
+* Curadoria de dados das __regiões Sul e Sudeste__ publicados no repositório:
+  + Resgate de informações sobre métodos analíticos,
+  + Atribuição de códigos de identificação às variáveis do solo,
+  + Validação de unidades de medida, e
+  + Digitalização de dados faltantes/omitidos.
+* Desenvolvimento do sistema de codificação e descrição de __métodos de análise química__ do solo:
+  + Revisão de códigos e descrições existentes,
+  + Levantamento dos métodos de análise química do solo,
+  + Elaboração de novos códigos e descrições, e
+  + Documentação do sistema de codificação.
+
+Você encontra mais informações sobre o ___febr___ na página de [publicações](../../../../../publicacoes).
+
+<!-- O período de inscrição vai de __24 de junho__, segunda-feira, até o final da tarde do dia __27 de junho de 2019__, quinta-feira, na sala da coordenação do curso Agronomia, Bloco J da UTFPR Santa Helena, com o [Prof. Alessandro Samuel-Rosa][alessandro]. -->
+
+<!-- [alessandro]: http://samuel-rosa.github.io/ -->
+
+<!-- Uma entrevista será feita no momento da inscrição, quando será avaliado o potencial discente de realizar as atividades previstas no projeto ([link][projeto]) e descritas no plano de trabalho ([link][plano]). -->
+<!-- Uma nova entrevista poderá ser realizada na manhã do dia seguinte, __28 de junho de 2019__, sexta-feira. -->
+
+<!-- [projeto]: https://mfr.osf.io/render?url=https://osf.io/ybpn2/?action=download%26mode=render -->
+<!-- [plano]: https://mfr.osf.io/render?url=https://osf.io/nhkrb/?action=download%26mode=render -->
+
+<!-- O resultado será informado aos inscritos por e-mail na tarde do dia __28 de junho de 2019__. O início da vigência da bolsa está previsto para agosto de 2019. -->
+
+<!-- ## Documentação exigida -->
+
+<!-- 1. Declaração de matrícula em curso de graduação da UTFPR Santa Helena, -->
+<!-- 2. Declaração de próprio punho de que não acumula bolsa, conforme consta na página de editais da UTFPR  -->
+<!--    ([link][declaracao]), e -->
+<!-- 3. Histórico escolar da graduação. -->
+<!-- 3. Declaração emitida pelo DERAC da UTFPR Santa Helena confirmando o ingresso na modalidade de cotista. -->
+
+<!-- [declaracao]: http://www.utfpr.edu.br/estrutura-universitaria/diretorias-de-gestao/dircom/noticias/noticias/link/DECLARAODENOACMULODEBOLSA.pdf -->
+
+<!-- As obrigações do bolsista estão descritas no plano de trabalho ([link][plano]). Mais informações estão disponíveis no [edital de seleção de projetos de extensão][utfpr]. -->
